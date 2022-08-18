@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738735510685",
+    "project_id": "metachat-cb525",
+    "storage_bucket": "metachat-cb525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738735510685:android:f808631b59a14bf215b074",
+        "android_client_info": {
+          "package_name": "com.metachat.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738735510685-t73g59uobigdn1m2v9d4lhfcj3btsttm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metachat.dating",
+            "certificate_hash": "9f9def7aadb6c2f892fcd52fee7815373c709b8c"
+          }
+        },
+        {
+          "client_id": "738735510685-j2vvbemc1qaq6e15p26ea3t70jokqc3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8yTZiAg9-GRCsPbjris5AgxNp66N-Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738735510685-j2vvbemc1qaq6e15p26ea3t70jokqc3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
